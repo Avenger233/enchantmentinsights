@@ -4,5 +4,5 @@ plugins {
 
 dependencies {
     modCompileOnlyApi(libs.puzzleslib.common)
-    modCompileOnlyApi(libs.tooltipinsights.common)
+    //modCompileOnlyApi(libs.tooltipinsights.common)
 }
